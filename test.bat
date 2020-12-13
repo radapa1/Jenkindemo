@@ -1,0 +1,1 @@
+echo "git connected with jenkins"
